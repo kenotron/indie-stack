@@ -1,0 +1,9 @@
+{
+  "name": "indie-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kenotron/indie-stack",
+  "author": "Kenneth Chau <34725+kenotron@users.noreply.github.com>",
+  "license": "MIT",
+  "packageManager": "yarn@4.2.2"
+}
